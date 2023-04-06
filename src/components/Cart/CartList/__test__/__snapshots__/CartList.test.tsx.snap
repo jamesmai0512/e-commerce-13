@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CartList Should render correctly 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="shopping_cart"
+      >
+        <h1
+          class="shopping_cart_title"
+        >
+          Your shopping cart
+        </h1>
+        <div
+          class="shopping_cart_info"
+        >
+          <p
+            class="shopping_cart_info_product"
+          >
+            Product
+          </p>
+          <p
+            class="table_name"
+          >
+            Quantity
+          </p>
+          <p
+            class="table_name"
+          >
+            Total
+          </p>
+        </div>
+        <div
+          class="shopping_cart_list"
+        />
+        <div
+          class="shopping_cart_total"
+        >
+          <div
+            class="shopping_cart_total_content"
+          >
+            <div
+              class="shopping_cart_list_detail"
+            >
+              <h3
+                class="shopping_cart_list_subtotal"
+              >
+                Subtotal
+              </h3>
+              <h2
+                class="shopping_cart_list_price"
+              >
+                £
+                50
+              </h2>
+            </div>
+            <p
+              class="shopping_carts_list"
+            >
+              Taxes and shipping are calculated at checkout
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="shopping_cart"
+    >
+      <h1
+        class="shopping_cart_title"
+      >
+        Your shopping cart
+      </h1>
+      <div
+        class="shopping_cart_info"
+      >
+        <p
+          class="shopping_cart_info_product"
+        >
+          Product
+        </p>
+        <p
+          class="table_name"
+        >
+          Quantity
+        </p>
+        <p
+          class="table_name"
+        >
+          Total
+        </p>
+      </div>
+      <div
+        class="shopping_cart_list"
+      />
+      <div
+        class="shopping_cart_total"
+      >
+        <div
+          class="shopping_cart_total_content"
+        >
+          <div
+            class="shopping_cart_list_detail"
+          >
+            <h3
+              class="shopping_cart_list_subtotal"
+            >
+              Subtotal
+            </h3>
+            <h2
+              class="shopping_cart_list_price"
+            >
+              £
+              50
+            </h2>
+          </div>
+          <p
+            class="shopping_carts_list"
+          >
+            Taxes and shipping are calculated at checkout
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

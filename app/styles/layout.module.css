@@ -1,0 +1,12 @@
+.layout {
+  position: relative;
+  min-width: 1400px;
+}
+
+.body {
+  padding-bottom: 380px;
+  min-height: 100vh;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}

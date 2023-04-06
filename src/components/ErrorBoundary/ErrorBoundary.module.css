@@ -1,0 +1,8 @@
+.error_boundary_box {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 500px;
+  margin: 0 auto;
+}
