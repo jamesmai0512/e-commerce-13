@@ -2,7 +2,7 @@
 
 import { useRouter } from 'next/navigation'
 
-import styles from './styles/not_found.module.css'
+import styles from './styles/notFound.module.css'
 
 const NotFound = () => {
   const { button_return_home, text_center, text_center_error, text_not_found } =
